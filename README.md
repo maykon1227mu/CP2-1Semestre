@@ -5,4 +5,4 @@ Gabriel Zappelloni – RM: 572060
 Felipe Restivo - RM: 570712
 Rodger Rios - RM: 571438
 Kenichi Yamamoto - RM: 569815
-
+Fernando - RM: 569802
